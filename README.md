@@ -120,7 +120,7 @@ I'm currently working as a software developer for [Octostar](https://www.octosta
 
 
 ## Daily.dev Card
-<a href="https://app.daily.dev/eduardomecchia"><img src="https://github.com/eduardomecchia/eduardomecchia/blob/main/devcard.svg" width="300" alt="Eduardo Mecchia's Dev Card"/></a>
+<a href="https://app.daily.dev/eduardomecchiafernandez"><img src="https://github.com/eduardomecchia/eduardomecchia/blob/main/devcard.svg" width="300" alt="Eduardo Mecchia's Dev Card"/></a>
 
 ## GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=eduardomecchia&theme=matrix&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=eduardomecchiafernandez&theme=matrix&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
